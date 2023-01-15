@@ -1,20 +1,20 @@
 <div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
+<img width="30%" src="https://user-images.githubusercontent.com/70067726/212542817-2ac22139-c99c-40cf-9578-3ced58b06cf7.png">
 
-# StudyBuddy
+# AlumniBuddy
 </div>
 
 ### Cloning the repository
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/StudyBud.git
+git clone https://github.com/divanov11/AlumniBuddy.git
 
 ```
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd AlumniBuddy
 
 ```
 
@@ -58,21 +58,31 @@ python manage.py runserver
 
 <table width="100%"> 
 <tr>
-<td width="50%">      
-&nbsp; 
-<br>
-<p align="center">
-  Feed Home
-</p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
-</td> 
-<td width="50%">
-<br>
+<td width="40%">
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
+<img src="https://user-images.githubusercontent.com/70067726/212543246-55d3b49a-0204-4602-af72-5fe6cc532ae0.png">  
+</td> 
+<td width="40%">
+<p align="center">
+Feed Home View
+</p>
+<img src="https://user-images.githubusercontent.com/70067726/212543454-35d3a84c-2bf1-435d-8a2a-b40aebdee354.png">  
 </td>
+</tr>
+<!--
+<tr>
+<td width="100%" colspan=2>      
+&nbsp; 
+<br>
+<p align="center">
+  Desktop View
+</p>
+<img align="center" src="https://user-images.githubusercontent.com/70067726/212543426-d6a491f4-b886-45a9-b07d-ea50226dffa0.png">
+</td> 
+</tr>
+-->
 </table>
 
 
